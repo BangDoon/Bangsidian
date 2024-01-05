@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e0d85ff5a64fd32d",
+        "id": "90988f301b9a7a43",
         "type": "tabs",
         "children": [
           {
-            "id": "2d34d9c100379916",
+            "id": "950d28b0f068d4ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -163,10 +163,10 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "2d34d9c100379916",
+  "active": "668a72a65e06606a",
   "lastOpenFiles": [
-    "README.md",
     "Test.md",
+    "README.md",
     "Test2.md"
   ]
 }
