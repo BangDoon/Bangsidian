@@ -1,1 +1,0 @@
-Generative Adersarial Nets

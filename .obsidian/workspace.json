@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep Learning/Image Generation/GAN.md",
+                "file": "Computer Vision/Image Generation/GAN.md",
                 "mode": "source",
                 "source": false
               }
@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep Learning/Object Detection/R-CNN.md",
+                "file": "Computer Vision/Object Detection/R-CNN.md",
                 "mode": "source",
                 "source": false
               }
@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep Learning/Object Detection/YOLO.md",
+                "file": "Computer Vision/Object Detection/YOLO.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,14 +65,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep Learning/CNN.md",
+                "file": "Computer Vision/CNN.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "90cb76caac83aa9e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -138,7 +146,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deep Learning/CNN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +162,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deep Learning/CNN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,9 +183,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Deep Learning/CNN.md"
-              }
+              "state": {}
             }
           },
           {
@@ -215,17 +219,19 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "533ab3b6b4e5f612",
+  "active": "90cb76caac83aa9e",
   "lastOpenFiles": [
-    "Deep Learning/Object Detection/YOLO.md",
-    "Deep Learning/Object Detection/R-CNN.md",
-    "Deep Learning/Image Generation/GAN.md",
-    "Deep Learning/CNN.md",
-    "Deep Learning/Object Detection",
-    "Deep Learning/Image Generation",
-    "Deep Learning/Computer Vision.md",
-    "Deep Learning",
     "README.md",
+    "Computer Vision/Object Detection/R-CNN.md",
+    "Computer Vision/Object Detection/YOLO.md",
+    "Computer Vision/Image Generation/GAN.md",
+    "Computer Vision/Image, Dimension, and Distribution.md",
+    "images",
+    "Computer Vision/CNN.md",
+    "Computer Vision/Object Detection",
+    "Computer Vision/Image Generation",
+    "Deep Learning/Computer Vision.md",
+    "Computer Vision",
     "Test.md",
     "Juggl code block.md",
     "Test2.md"
