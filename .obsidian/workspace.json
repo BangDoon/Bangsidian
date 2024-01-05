@@ -8,70 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "680abb79394a6a1c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "40b5a73bc8cc48f8",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "b9d24f758b4da226",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Vision/Image Generation/GAN.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce2461516fdd06b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Vision/Object Detection/R-CNN.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "543dacc06f312df7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Vision/Object Detection/YOLO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "533ab3b6b4e5f612",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Vision/CNN.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "90cb76caac83aa9e",
             "type": "leaf",
             "state": {
@@ -79,8 +15,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,10 +156,11 @@
   },
   "active": "90cb76caac83aa9e",
   "lastOpenFiles": [
+    "Computer Vision/Image Generation/GAN.md",
     "README.md",
+    "images/Pasted image 20240106011319.png",
     "Computer Vision/Object Detection/R-CNN.md",
     "Computer Vision/Object Detection/YOLO.md",
-    "Computer Vision/Image Generation/GAN.md",
     "Computer Vision/Image, Dimension, and Distribution.md",
     "images",
     "Computer Vision/CNN.md",
