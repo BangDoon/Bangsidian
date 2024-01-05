@@ -8,24 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4091d6ddf0a26cba",
+            "id": "46fcbee6f677a37f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "bd79777824ef2555",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Test.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "46fcbee6f677a37f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Test2.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test2.md",
+                "file": "Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test2.md",
+                "file": "Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test2.md"
+                "file": "Test.md"
               }
             }
           }
@@ -159,9 +155,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "46fcbee6f677a37f",
+  "active": "bd79777824ef2555",
   "lastOpenFiles": [
     "Test.md",
-    "Test2.md"
+    "README.md",
+    "Test2.md",
+    "Test.md"
   ]
 }
