@@ -1,6 +1,5 @@
 
 [[README]]
 
-```juggl
+'''juggl
 local: Juggl code fence
-```
