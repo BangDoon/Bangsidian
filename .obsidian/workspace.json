@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6df6ce7f5c56b778",
+        "id": "ff22ab2e64525dbe",
         "type": "tabs",
         "children": [
           {
-            "id": "dd4b80ff50e496a9",
+            "id": "680abb79394a6a1c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -151,11 +159,10 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
-      "juggl:Juggl global graph": false
+      "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "dd4b80ff50e496a9",
+  "active": "680abb79394a6a1c",
   "lastOpenFiles": [
     "Test.md",
     "README.md",

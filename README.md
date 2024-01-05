@@ -1,3 +1,5 @@
 # Bangsidian
-Second Brain
-[[Test]]
+
+This is my Second Brain
+
+
