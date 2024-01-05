@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ff22ab2e64525dbe",
+        "id": "d314c4c9bdb85881",
         "type": "tabs",
         "children": [
           {
-            "id": "90cb76caac83aa9e",
+            "id": "f100ac0bd926b4a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Computer Vision/Object Detection/YOLO.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Computer Vision/Object Detection/YOLO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Computer Vision/Object Detection/YOLO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Computer Vision/Object Detection/YOLO.md"
               }
             }
           },
@@ -149,8 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,14 +161,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "90cb76caac83aa9e",
+  "active": "f100ac0bd926b4a6",
   "lastOpenFiles": [
+    "Computer Vision/Image, Dimension, and Distribution.md",
+    "Computer Vision/Object Detection/R-CNN.md",
+    "Computer Vision/Object Detection/YOLO.md",
     "Computer Vision/Image Generation/GAN.md",
     "README.md",
     "images/Pasted image 20240106011319.png",
-    "Computer Vision/Object Detection/R-CNN.md",
-    "Computer Vision/Object Detection/YOLO.md",
-    "Computer Vision/Image, Dimension, and Distribution.md",
     "images",
     "Computer Vision/CNN.md",
     "Computer Vision/Object Detection",
