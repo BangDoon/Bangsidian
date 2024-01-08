@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d314c4c9bdb85881",
+        "id": "8658893c3c6fec8d",
         "type": "tabs",
         "children": [
           {
-            "id": "f100ac0bd926b4a6",
+            "id": "e0186d6f8d64bc19",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Vision/Object Detection/YOLO.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Vision/Object Detection/YOLO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Vision/Object Detection/YOLO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Computer Vision/Object Detection/YOLO.md"
-              }
+              "state": {}
             }
           },
           {
@@ -161,11 +153,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f100ac0bd926b4a6",
+  "active": "e0186d6f8d64bc19",
   "lastOpenFiles": [
+    "Computer Vision/Object Detection/YOLO.md",
     "Computer Vision/Image, Dimension, and Distribution.md",
     "Computer Vision/Object Detection/R-CNN.md",
-    "Computer Vision/Object Detection/YOLO.md",
     "Computer Vision/Image Generation/GAN.md",
     "README.md",
     "images/Pasted image 20240106011319.png",
