@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Vision/Image, Dimension, and Distribution.md",
+                "file": "PG-GAN.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Vision/Image, Dimension, and Distribution.md",
+                "file": "PG-GAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Vision/Image, Dimension, and Distribution.md",
+                "file": "PG-GAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Vision/Image, Dimension, and Distribution.md"
+                "file": "PG-GAN.md"
               }
             }
           },
@@ -176,11 +176,11 @@
   },
   "active": "b285c2e47fbc00d9",
   "lastOpenFiles": [
-    "Computer Vision/Object Detection/YOLO.md",
     "Computer Vision/Object Detection/R-CNN.md",
+    "Computer Vision/Object Detection/YOLO.md",
+    "Computer Vision/Image, Dimension, and Distribution.md",
     "Computer Vision/Image Generation/GAN.md",
     "PG-GAN.md",
-    "Computer Vision/Image, Dimension, and Distribution.md",
     "Computer Vision/CNN.md",
     "images/pggan1.gif",
     "images/Pasted image 20240110000808.png",
