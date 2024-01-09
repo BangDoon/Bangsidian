@@ -85,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer Vision/Image, Dimension, and Distribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Computer Vision/Image, Dimension, and Distribution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.md"
+                "file": "Computer Vision/Image, Dimension, and Distribution.md"
               }
             }
           },
@@ -159,10 +161,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "668a72a65e06606a",
+  "active": "e0186d6f8d64bc19",
   "lastOpenFiles": [
-    "Computer Vision/Image, Dimension, and Distribution.md",
     "무제 파일.md",
+    "Computer Vision/Image, Dimension, and Distribution.md",
     "Computer Vision/CNN.md",
     "images/Pasted image 20240109231040.png",
     "images/Pasted image 20240109231004.png",
