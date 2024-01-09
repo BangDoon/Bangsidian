@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8658893c3c6fec8d",
+        "id": "32e6736667131ca1",
         "type": "tabs",
         "children": [
           {
-            "id": "e0186d6f8d64bc19",
+            "id": "e5449f7db91ad9b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -161,10 +161,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e0186d6f8d64bc19",
+  "active": "e5449f7db91ad9b1",
   "lastOpenFiles": [
-    "무제 파일.md",
     "Computer Vision/Image, Dimension, and Distribution.md",
+    "무제 파일.md",
     "Computer Vision/CNN.md",
     "images/Pasted image 20240109231040.png",
     "images/Pasted image 20240109231004.png",
