@@ -23,12 +23,8 @@
             "id": "b285c2e47fbc00d9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PG-GAN.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -98,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PG-GAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PG-GAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "PG-GAN.md"
-              }
+              "state": {}
             }
           },
           {
@@ -176,12 +168,14 @@
   },
   "active": "b285c2e47fbc00d9",
   "lastOpenFiles": [
+    "README.md",
+    "Computer Vision/Image, Dimension, and Distribution.md",
+    "PG-GAN.md",
+    "images/Pasted image 20240110001616.png",
     "images/Pasted image 20240110001526.png",
     "Computer Vision/Object Detection/R-CNN.md",
     "Computer Vision/Object Detection/YOLO.md",
-    "Computer Vision/Image, Dimension, and Distribution.md",
     "Computer Vision/Image Generation/GAN.md",
-    "PG-GAN.md",
     "Computer Vision/CNN.md",
     "images/pggan1.gif",
     "images/Pasted image 20240110000808.png",
@@ -191,9 +185,6 @@
     "images/Pasted image 20240109231040.png",
     "images/Pasted image 20240109231004.png",
     "images/Pasted image 20240109230953.png",
-    "images/Pasted image 20240109230830.png",
-    "images/Pasted image 20240109230815.png",
-    "README.md",
     "images",
     "Computer Vision/Object Detection",
     "Computer Vision/Image Generation",
