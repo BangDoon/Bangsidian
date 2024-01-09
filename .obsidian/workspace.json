@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Vision/CNN.md",
+                "file": "Computer Vision/Image Generation/GAN.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Vision/CNN.md",
+                "file": "Computer Vision/Image Generation/GAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Vision/CNN.md",
+                "file": "Computer Vision/Image Generation/GAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Vision/CNN.md"
+                "file": "Computer Vision/Image Generation/GAN.md"
               }
             }
           },
@@ -163,9 +163,9 @@
   },
   "active": "e5449f7db91ad9b1",
   "lastOpenFiles": [
+    "Computer Vision/CNN.md",
     "Computer Vision/Image Generation/GAN.md",
     "Computer Vision/Image, Dimension, and Distribution.md",
-    "Computer Vision/CNN.md",
     "무제 파일.md",
     "images/Pasted image 20240109231040.png",
     "images/Pasted image 20240109231004.png",
