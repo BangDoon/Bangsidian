@@ -1,0 +1,38 @@
+## 1. 이미지(Image)와 차원(Dimension) 간의 관계
+
+---
+
+이미지의 색을 표현하기 위해서 color의 경우에는 RGB ⇒ 3차원이 필요하고, Gray color 의 경우에는 gray ⇒1차원이 필요합니다.
+
+
+그렇다면 색을 표혈할 수 있는 모든 경우의 수는 어떻게 될까요?
+
+RGB color의 경우에는 (R,G,B) ⇒ (255,255,255) 이므로 조합의 경우의 수를 구하면 $255^3$ 이 됩니다.
+
+Gray color의 경우에는 (G) ⇒ (255) 가 됩니다.
+
+앞에서 색을 표현하기 위한 차원을 알아봤으니 이번에는 이미지를 표현하기 위한 차원을 알아보겠습니다.
+
+이미지를 표현하기 위한 차원은 표현 하고자 하는 이미지의 크기에 따라 달라집니다.
+
+예를 들어 보겠습니다. 아래 gray scale 의 고양이 이미지의 크기가 200 X 200 이라고 하면, 이 이미지를 표현하기 위해서는 40000 차원이 필요하게 됩니다.
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3902491f-91d3-4887-a83b-aa0389dd2c55/Untitled.png)
+
+이미지는 pixel의 조합으로 이루어져 있습니다. 그리고 하나의 픽셀에는 하나의 색 표현이 가능합니다. gray scale인 경우에는 하나의 pixel에 0~255 사이의 값 하나가 할당될 수 있습니다. 200 X 200의 이미지라면 이러한 픽셀이 200X200 즉 40000개가 있는 것입니다. (아래그림 참고)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8a964f95-12c9-4be9-95eb-0ee4316cbe4d/Untitled.png)
+
+그렇다면 40000개의 픽셀이 각각 0~255의 값을 가질 수 있으니까, 200 X 200 gray scale 이미지를 표현할 수 있는 모든 경우의 수는 $256^{200*200} \approx 10^{96329}$ 개가 됩니다.
+
+## 2. 이미지(Image)와 분포(Distribution)간의 관계
+
+---
+
+앞에서 200X200 gray scale 이미지로 표현할 수 있는 모든 경우의 수는 약 $10^{96329}$ 라고 했는데 이중에는 의미가 있는 데이터가 있고 의미가 없는 데이터가 있을 것 입니다.
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/576ed3ad-9fbb-44a4-8e29-7d021d75fe23/Untitled.png)
+
+그렇다면 여기서 의미있는 경우의 수들이 40000차원 상에서 고르게 분포(uniform distribution) 하고 있을까요 아니면 특정 패턴으로 분포(non-uniform distribution) 하고 있을까요?
+
+이를 알아내고자 200 X 200 gray scale 이미지들을 무작위로 수 없이 샘플링 해보았는데, 샘플링 결과 의미없는 이미지(noisy image)만 추출된 것을 확인할 수 있었다고 합니다. 따라서 이러한 실험들 결과 이미지들은 특정 패턴으로 분포(non-uniform distribution)해 있다고 경험적 결론을 내릴 수 있게 됩니다.
