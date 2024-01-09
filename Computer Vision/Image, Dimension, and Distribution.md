@@ -16,8 +16,7 @@ Gray color의 경우에는 (G) ⇒ (255) 가 됩니다.
 이미지를 표현하기 위한 차원은 표현 하고자 하는 이미지의 크기에 따라 달라집니다.
 
 예를 들어 보겠습니다. 아래 gray scale 의 고양이 이미지의 크기가 200 X 200 이라고 하면, 이 이미지를 표현하기 위해서는 40000 차원이 필요하게 됩니다.
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3902491f-91d3-4887-a83b-aa0389dd2c55/Untitled.png)
+![[Pasted image 20240109230953.png]]
 
 이미지는 pixel의 조합으로 이루어져 있습니다. 그리고 하나의 픽셀에는 하나의 색 표현이 가능합니다. gray scale인 경우에는 하나의 pixel에 0~255 사이의 값 하나가 할당될 수 있습니다. 200 X 200의 이미지라면 이러한 픽셀이 200X200 즉 40000개가 있는 것입니다. (아래그림 참고)
 
@@ -30,8 +29,7 @@ Gray color의 경우에는 (G) ⇒ (255) 가 됩니다.
 ---
 
 앞에서 200X200 gray scale 이미지로 표현할 수 있는 모든 경우의 수는 약 $10^{96329}$ 라고 했는데 이중에는 의미가 있는 데이터가 있고 의미가 없는 데이터가 있을 것 입니다.
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/576ed3ad-9fbb-44a4-8e29-7d021d75fe23/Untitled.png)
+![[Pasted image 20240109231004.png]]
 
 그렇다면 여기서 의미있는 경우의 수들이 40000차원 상에서 고르게 분포(uniform distribution) 하고 있을까요 아니면 특정 패턴으로 분포(non-uniform distribution) 하고 있을까요?
 
