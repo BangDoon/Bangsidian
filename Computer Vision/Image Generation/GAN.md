@@ -23,16 +23,16 @@ Generative Adersarial Nets
 
 adversarial modeling 프레임워크는 두 모델 모두 다층 퍼셉트론이 적용됩니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ec120dd7-73b0-409e-b47f-e54ec26ec2ae/Untitled.png)
+![[Pasted image 20240110000600.png]]
 
 G=generative model , D=discriminator 를 뜻하고 D(input) 이 1에 가까울수록 정확도가 높은 것입니다. 위 수식을 해석하면,
 
+
 - 첫번째 항 : 실제 데이터 x를 discriminator에 넣었을 때 나오는 결과를 log 취했을 때 얻는 기댓값
-    
-    $$ E_{x \sim P_{data}(x)}[logD(x)] $$
-    
+  $$ E_{x \sim P_{data}(x)}[logD(x)] $$
+
+
 - 두번째 항 : generator가 만든 fake data를 discriminator가 판단한 결과를 log(1-결과)한 기댓값
-    
 
 $$ E_{z\sim p_z(z)}[log(1-D(G(z)))] $$
 
@@ -44,13 +44,6 @@ $$ E_{z\sim p_z(z)}[log(1-D(G(z)))] $$
 
 정리하자면, D는 V(D,G)를 최대화 하기 위해이고, G는 V(D,G)를 최소화 하기 위해 학습하게 됩니다. 이를 수식으로 나타내어 아래와 같이 되는 것입니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/10c3d4b5-44af-4ada-9bbc-26448046c61b/Untitled.png)
-
-![GAN의 학습과정](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4531adac-2c89-466c-8280-e0917e2a9c2f/Untitled.png)
-
-```
-                                                                         GAN의 학습과정
-```
 
 위 그림은 GAN의 학습과정을 나타내고 있습니다.
 
