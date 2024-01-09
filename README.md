@@ -3,5 +3,5 @@
 This is my Second Brain
 
 
-![Graph View](images/Pasted%20image%20240110001704.png)
+![Graph View](images/Pasted%20image%2020240110001704.png)
 
