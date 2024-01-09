@@ -4,8 +4,9 @@
 ---
 
 이미지의 색을 표현하기 위해서 color의 경우에는 RGB ⇒ 3차원이 필요하고, Gray color 의 경우에는 gray ⇒1차원이 필요합니다.
-![[Pasted image 20240109230815.png]]
-![[Pasted image 20240109230830.png]]
+![[Pasted image 20240109230815.png]]![[Pasted image 20240109230830.png]]
+
+
 
 
 
