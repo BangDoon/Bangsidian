@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b285c2e47fbc00d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PG-GAN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Vision/Image Generation/GAN.md",
+                "file": "PG-GAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Vision/Image Generation/GAN.md",
+                "file": "PG-GAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Vision/Image Generation/GAN.md"
+                "file": "PG-GAN.md"
               }
             }
           },
@@ -161,13 +174,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e5449f7db91ad9b1",
+  "active": "b285c2e47fbc00d9",
   "lastOpenFiles": [
+    "Computer Vision/Image Generation/GAN.md",
+    "PG-GAN.md",
+    "images/Pasted image 20240110000710.png",
+    "images/Pasted image 20240110000649.png",
     "images/Pasted image 20240110000600.png",
     "Computer Vision/CNN.md",
-    "Computer Vision/Image Generation/GAN.md",
     "Computer Vision/Image, Dimension, and Distribution.md",
-    "무제 파일.md",
     "images/Pasted image 20240109231040.png",
     "images/Pasted image 20240109231004.png",
     "images/Pasted image 20240109230953.png",
