@@ -1,5 +1,6 @@
+
 ---
-aliases:
+cssClass: img-grid
 ---
 
 ## 1. 이미지(Image)와 차원(Dimension) 간의 관계
