@@ -3,7 +3,6 @@ Generative Adersarial Nets
 [[CNN]]
 
 ## 1. Introduction
----
 
 - 딥러닝의 작동방식은 여러 데이터(사진, 오디오,파형 등)에 대해서 모집단에 근사하는 확률분포를 나타내는 다양한 계층적 모델을 발견하는 것입니다. 지금까지는 고차원의 방대한 데이터를 클래스 레이블에 매핑해서 구분하는 모델을 사용했습니다. 모델은 well-behaved gradient를 가지는 선형 활성화 함수들을 사용한 역전파, 드롭아웃 알고리즘을 기반으로 하고 있습니다.
 
@@ -17,7 +16,6 @@ Generative Adersarial Nets
 
 
 ## 3. Adversarial nets
----
 
 adversarial modeling 프레임워크는 두 모델 모두 다층 퍼셉트론이 적용됩니다.
 

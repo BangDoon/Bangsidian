@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Vision/Image Generation/GAN.md",
+                "file": "Computer Vision/Image, Dimension, and Distribution.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Vision/Image Generation/GAN.md",
+                "file": "Computer Vision/Image, Dimension, and Distribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Vision/Image Generation/GAN.md",
+                "file": "Computer Vision/Image, Dimension, and Distribution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Vision/Image Generation/GAN.md"
+                "file": "Computer Vision/Image, Dimension, and Distribution.md"
               }
             }
           },
@@ -176,22 +176,22 @@
   },
   "active": "b285c2e47fbc00d9",
   "lastOpenFiles": [
+    "Computer Vision/Object Detection/YOLO.md",
+    "Computer Vision/Object Detection/R-CNN.md",
+    "Computer Vision/Image Generation/GAN.md",
     "PG-GAN.md",
+    "Computer Vision/Image, Dimension, and Distribution.md",
+    "Computer Vision/CNN.md",
     "images/pggan1.gif",
     "images/Pasted image 20240110000808.png",
-    "Computer Vision/Image Generation/GAN.md",
     "images/Pasted image 20240110000710.png",
     "images/Pasted image 20240110000649.png",
     "images/Pasted image 20240110000600.png",
-    "Computer Vision/CNN.md",
-    "Computer Vision/Image, Dimension, and Distribution.md",
     "images/Pasted image 20240109231040.png",
     "images/Pasted image 20240109231004.png",
     "images/Pasted image 20240109230953.png",
     "images/Pasted image 20240109230830.png",
     "images/Pasted image 20240109230815.png",
-    "Computer Vision/Object Detection/YOLO.md",
-    "Computer Vision/Object Detection/R-CNN.md",
     "README.md",
     "images",
     "Computer Vision/Object Detection",
