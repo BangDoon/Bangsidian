@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PG-GAN.md",
-                "mode": "source",
+                "file": "Computer Vision/Image Generation/GAN.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PG-GAN.md",
+                "file": "Computer Vision/Image Generation/GAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PG-GAN.md",
+                "file": "Computer Vision/Image Generation/GAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PG-GAN.md"
+                "file": "Computer Vision/Image Generation/GAN.md"
               }
             }
           },
@@ -176,10 +176,10 @@
   },
   "active": "b285c2e47fbc00d9",
   "lastOpenFiles": [
+    "PG-GAN.md",
     "images/pggan1.gif",
     "images/Pasted image 20240110000808.png",
     "Computer Vision/Image Generation/GAN.md",
-    "PG-GAN.md",
     "images/Pasted image 20240110000710.png",
     "images/Pasted image 20240110000649.png",
     "images/Pasted image 20240110000600.png",
@@ -193,7 +193,6 @@
     "Computer Vision/Object Detection/YOLO.md",
     "Computer Vision/Object Detection/R-CNN.md",
     "README.md",
-    "images/Pasted image 20240106011319.png",
     "images",
     "Computer Vision/Object Detection",
     "Computer Vision/Image Generation",
