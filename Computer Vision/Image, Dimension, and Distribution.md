@@ -19,8 +19,7 @@ Gray color의 경우에는 (G) ⇒ (255) 가 됩니다.
 ![[Pasted image 20240109230953.png]]
 
 이미지는 pixel의 조합으로 이루어져 있습니다. 그리고 하나의 픽셀에는 하나의 색 표현이 가능합니다. gray scale인 경우에는 하나의 pixel에 0~255 사이의 값 하나가 할당될 수 있습니다. 200 X 200의 이미지라면 이러한 픽셀이 200X200 즉 40000개가 있는 것입니다. (아래그림 참고)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8a964f95-12c9-4be9-95eb-0ee4316cbe4d/Untitled.png)
+![[Pasted image 20240109231004.png]]
 
 그렇다면 40000개의 픽셀이 각각 0~255의 값을 가질 수 있으니까, 200 X 200 gray scale 이미지를 표현할 수 있는 모든 경우의 수는 $256^{200*200} \approx 10^{96329}$ 개가 됩니다.
 
@@ -29,7 +28,7 @@ Gray color의 경우에는 (G) ⇒ (255) 가 됩니다.
 ---
 
 앞에서 200X200 gray scale 이미지로 표현할 수 있는 모든 경우의 수는 약 $10^{96329}$ 라고 했는데 이중에는 의미가 있는 데이터가 있고 의미가 없는 데이터가 있을 것 입니다.
-![[Pasted image 20240109231004.png]]
+![[Pasted image 20240109231040.png]]
 
 그렇다면 여기서 의미있는 경우의 수들이 40000차원 상에서 고르게 분포(uniform distribution) 하고 있을까요 아니면 특정 패턴으로 분포(non-uniform distribution) 하고 있을까요?
 
