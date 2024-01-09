@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Computer Vision/CNN.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -163,9 +163,10 @@
   },
   "active": "e5449f7db91ad9b1",
   "lastOpenFiles": [
+    "Computer Vision/Image Generation/GAN.md",
     "Computer Vision/Image, Dimension, and Distribution.md",
-    "무제 파일.md",
     "Computer Vision/CNN.md",
+    "무제 파일.md",
     "images/Pasted image 20240109231040.png",
     "images/Pasted image 20240109231004.png",
     "images/Pasted image 20240109230953.png",
@@ -173,7 +174,6 @@
     "images/Pasted image 20240109230815.png",
     "Computer Vision/Object Detection/YOLO.md",
     "Computer Vision/Object Detection/R-CNN.md",
-    "Computer Vision/Image Generation/GAN.md",
     "README.md",
     "images/Pasted image 20240106011319.png",
     "images",
