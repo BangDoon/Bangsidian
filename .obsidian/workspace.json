@@ -13,22 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Vision/Image Generation/GAN.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "b285c2e47fbc00d9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -166,16 +161,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b285c2e47fbc00d9",
+  "active": "e5449f7db91ad9b1",
   "lastOpenFiles": [
+    "Computer Vision/Image Generation/GAN.md",
+    "images/Pasted image 20240110001704.png",
     "README.md",
     "Computer Vision/Image, Dimension, and Distribution.md",
-    "PG-GAN.md",
+    "Computer Vision/Image Generation/PG-GAN.md",
     "images/Pasted image 20240110001616.png",
     "images/Pasted image 20240110001526.png",
     "Computer Vision/Object Detection/R-CNN.md",
     "Computer Vision/Object Detection/YOLO.md",
-    "Computer Vision/Image Generation/GAN.md",
     "Computer Vision/CNN.md",
     "images/pggan1.gif",
     "images/Pasted image 20240110000808.png",
@@ -184,7 +180,6 @@
     "images/Pasted image 20240110000600.png",
     "images/Pasted image 20240109231040.png",
     "images/Pasted image 20240109231004.png",
-    "images/Pasted image 20240109230953.png",
     "images",
     "Computer Vision/Object Detection",
     "Computer Vision/Image Generation",
