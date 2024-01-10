@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Computer Vision/Image Generation/PG-GAN.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Computer Vision/Image Generation/PG-GAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Computer Vision/Image Generation/PG-GAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Computer Vision/Image Generation/PG-GAN.md"
               }
             }
           },
@@ -164,8 +164,8 @@
   "active": "e5449f7db91ad9b1",
   "lastOpenFiles": [
     "Computer Vision/Image Generation/GAN.md",
-    "images/Pasted image 20240110001704.png",
     "README.md",
+    "images/Pasted image 20240110001704.png",
     "Computer Vision/Image, Dimension, and Distribution.md",
     "Computer Vision/Image Generation/PG-GAN.md",
     "images/Pasted image 20240110001616.png",
