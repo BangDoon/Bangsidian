@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Vision/Object Detection/YOLO.md",
+                "file": "Computer Vision/CNN.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Vision/Object Detection/YOLO.md",
+                "file": "Computer Vision/CNN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Vision/Object Detection/YOLO.md",
+                "file": "Computer Vision/CNN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Vision/Object Detection/YOLO.md"
+                "file": "Computer Vision/CNN.md"
               }
             }
           },
@@ -176,7 +176,10 @@
   },
   "active": "3192bbdcf974ef6c",
   "lastOpenFiles": [
+    "Computer Vision/Object Detection/YOLO.md",
     "Computer Vision/Object Detection/R-CNN.md",
+    "Computer Vision/CNN.md",
+    "Computer Vision/Image, Dimension, and Distribution.md",
     "Computer Vision/Image Generation/GAN.md",
     "Computer Vision/Image Generation/CycleGAN.md",
     "Computer Vision/Image Generation/PG-GAN.md",
@@ -184,9 +187,6 @@
     "images/Pasted image 20240110164011.png",
     "images/Pasted image 20240110163440.png",
     "images/Pasted image 20240110163408.png",
-    "Computer Vision/Image, Dimension, and Distribution.md",
-    "Computer Vision/CNN.md",
-    "Computer Vision/Object Detection/YOLO.md",
     "images/Pasted image 20240110163216.png",
     "images/Pasted image 20240110001704.png",
     "images/Pasted image 20240110001616.png",
