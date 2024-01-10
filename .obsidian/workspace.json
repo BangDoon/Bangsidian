@@ -23,12 +23,8 @@
             "id": "3192bbdcf974ef6c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CycleGAN.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -51,7 +47,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTime"
               }
             }
           },
@@ -98,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CycleGAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CycleGAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CycleGAN.md"
-              }
+              "state": {}
             }
           },
           {
@@ -176,13 +168,13 @@
   },
   "active": "3192bbdcf974ef6c",
   "lastOpenFiles": [
+    "Computer Vision/Image Generation/CycleGAN.md",
     "images/Pasted image 20240110163440.png",
     "images/Pasted image 20240110163408.png",
     "Computer Vision/Image, Dimension, and Distribution.md",
     "Computer Vision/CNN.md",
     "Computer Vision/Image Generation/GAN.md",
     "Computer Vision/Object Detection/YOLO.md",
-    "CycleGAN.md",
     "images/Pasted image 20240110163216.png",
     "Computer Vision/Image Generation/PG-GAN.md",
     "Computer Vision/Object Detection/R-CNN.md",
@@ -194,7 +186,6 @@
     "images/Pasted image 20240110000808.png",
     "images/Pasted image 20240110000710.png",
     "images/Pasted image 20240110000649.png",
-    "images/Pasted image 20240110000600.png",
     "images",
     "Computer Vision/Object Detection",
     "Computer Vision/Image Generation",

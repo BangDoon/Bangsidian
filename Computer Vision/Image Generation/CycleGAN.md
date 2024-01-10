@@ -4,6 +4,7 @@ Unpaired Image-to-Image Translation(CycleGAN)
 
 기존의 GAN은 학습을 위한 완벽한 데이터 쌍이 필요하다는 한계점이 있었습니다. 이러한 한계점을 보완하기 위해 cycleGAN이 등장하였습니다.
 
+
 # 1. cycle-consistency loss : 사이클-일관성 손실
 ---
 cycleGAN은 핵심 아이디어는 이름에서 알 수 있듯이 사이클(cycle)을 구성하는 것 입니다. 한 도메인에서 다른 도메인으로 변환하고 다시 반대로 변환합니다.
