@@ -22,4 +22,10 @@ cycleGAN은 핵심 아이디어는 이름에서 알 수 있듯이 사이클(cycl
 
 # 3. identity loss : 동일성 손실
 ---
-identity loss는 사진 원본의 색감을 잃지 않도록 하기 위해서 등장한 loss입니다. 아래 사진은 identity loss의 효과를 보여줍니다.
+identity loss는 사진 원본의 색감을 잃지 않도록 하기 위해서 등장한 loss입니다. 아래 사진은 identity loss의 효과를 보여줍니다. identity loss는 CycleGAN 동작에 필수적인 요소는 아닙니다.
+![[Pasted image 20240110163408.png]]
+
+
+# 4. 구조
+---
+![[Pasted image 20240110163440.png]]
