@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Vision/CNN.md",
+                "file": "Computer Vision/Object Detection/YOLO.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Vision/CNN.md",
+                "file": "Computer Vision/Object Detection/YOLO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Vision/CNN.md",
+                "file": "Computer Vision/Object Detection/YOLO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Vision/CNN.md"
+                "file": "Computer Vision/Object Detection/YOLO.md"
               }
             }
           },
@@ -176,10 +176,10 @@
   },
   "active": "3192bbdcf974ef6c",
   "lastOpenFiles": [
-    "Computer Vision/Object Detection/YOLO.md",
     "Computer Vision/Object Detection/R-CNN.md",
-    "Computer Vision/CNN.md",
     "Computer Vision/Image, Dimension, and Distribution.md",
+    "Computer Vision/CNN.md",
+    "Computer Vision/Object Detection/YOLO.md",
     "Computer Vision/Image Generation/GAN.md",
     "Computer Vision/Image Generation/CycleGAN.md",
     "Computer Vision/Image Generation/PG-GAN.md",
