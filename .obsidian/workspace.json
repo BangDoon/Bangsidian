@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 파일.md",
+                "file": "ELBO, VLB, Proxy Loss.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.md",
+                "file": "ELBO, VLB, Proxy Loss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.md",
+                "file": "ELBO, VLB, Proxy Loss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.md"
+                "file": "ELBO, VLB, Proxy Loss.md"
               }
             }
           },
@@ -190,7 +190,7 @@
   "active": "c7ad1aec716ea1cb",
   "lastOpenFiles": [
     "KL Divergence.md",
-    "무제 파일.md",
+    "ELBO, VLB, Proxy Loss.md",
     "DDPM.md",
     "images/Pasted image 20240115212108.png",
     "images/Pasted image 20240115211822.png",
