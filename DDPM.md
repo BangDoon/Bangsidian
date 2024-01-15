@@ -44,7 +44,7 @@ Denoising Diffusion Probabilistic Models
 - Noise Schedul 의 의미는 Forward process를 진행할 수록
 	1. 이미지 분포의 평균은 0에 근접하도록
 	2. 이미지 분포의 분산은 1에 근접하도록
-		
+	즉, Normal Gaussian 이 되도록
 
 ![[Pasted image 20240115211558.png]]
 
