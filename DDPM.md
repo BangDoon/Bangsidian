@@ -34,5 +34,5 @@ Denoising Diffusion Probabilistic Models
 
 ![[Pasted image 20240115210910.png]]
 
-- 사
+- Diffusion 에서 Foward Process를 정의할 때, 사전 정의된 Timestep 만큼, T 번 Forward Process 를 수행하면 이미지는 ㅇ
 
