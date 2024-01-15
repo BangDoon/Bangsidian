@@ -17,7 +17,15 @@ Latent Diffusion Models
 
 # Architecture
 ---
-- 트랜스포머의 텏
-
+- 트랜스포머의 텍스트 인코더 블럭 사용, U-Net 에 Cross Attention 추가하여 Condition 주입
+-  Stable Diffusion은 텍스트 인코더를 CLIP의 텍스트 인코더로 사용
 
 ![[Pasted image 20240115233246.png]]
+
+
+# Training
+---
+- 학습된 autoencoder를 사용하여, 이미지에 대한 latent representation 획득
+- Latent representation을 이용하여 Diffusion Model을 학습
+
+![[Pasted image 20240115233641.png]]
