@@ -56,4 +56,4 @@ Denoising Diffusion Probabilistic Models
 - DDPM에서는 Reverse Process 의 분산을 고정, 평균을 학습
 
 ![[Pasted image 20240115212108.png]]
--
+
