@@ -74,3 +74,9 @@ Denoising Diffusion Probabilistic Models
 ![[Pasted image 20240115223940.png]]
 ![[Pasted image 20240115223956.png]]
 ![[Pasted image 20240115224004.png]]
+
+
+# Training
+![[Pasted image 20240115231244.png]]
+
+# Sampling
