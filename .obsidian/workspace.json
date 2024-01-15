@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DDPM.md",
+                "file": "CFG.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DDPM.md",
+                "file": "CFG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DDPM.md",
+                "file": "CFG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DDPM.md"
+                "file": "CFG.md"
               }
             }
           },
@@ -177,6 +177,8 @@
   },
   "active": "f62f6c5510223ddc",
   "lastOpenFiles": [
+    "DDPM.md",
+    "images/Pasted image 20240115231301.png",
     "images/Pasted image 20240115231244.png",
     "images/Pasted image 20240115231214.png",
     "images/Pasted image 20240115224004.png",
@@ -185,13 +187,10 @@
     "images/Pasted image 20240115223507.png",
     "images/Pasted image 20240115223308.png",
     "KL Divergence.md",
-    "DDPM.md",
     "ELBO, VLB.md",
     "Proxy Loss.md",
     "images/Pasted image 20240115212108.png",
     "images/Pasted image 20240115211822.png",
-    "images/Pasted image 20240115211558.png",
-    "images/Pasted image 20240115211329.png",
     "CFG.md",
     "Computer Vision/Image, Dimension, and Distribution.md",
     "Computer Vision/CNN.md",

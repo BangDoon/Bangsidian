@@ -80,3 +80,11 @@ Denoising Diffusion Probabilistic Models
 ![[Pasted image 20240115231244.png]]
 
 # Sampling
+![[Pasted image 20240115231301.png]]
+
+
+# Results
+- 학습에 사용된 데이터셋 속 이미지와 유사한 샘플들 생성하는데 성공
+- GAN 보다는 성능이 좋지 못함
+- 그래도 새로운 패러다임을 개척
+- DDPM은 Unconditional Model
