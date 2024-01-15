@@ -39,4 +39,4 @@ Denoising Diffusion Probabilistic Models
 
 ![[Pasted image 20240115211329.png]]
 
-
+- T=0 의 이미지로부터 T=500 까지 가려면 Forward Process 를 500번 수행해야하는 비효율이 발생
