@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e07dc0e5f41a8034",
@@ -164,6 +165,7 @@
   },
   "active": "1277ce706492394b",
   "lastOpenFiles": [
+    "images/Pasted image 20240115211329.png",
     "images/Pasted image 20240115210910.png",
     "images/Pasted image 20240115194739.png",
     "CFG.md",
@@ -185,7 +187,6 @@
     "images/Pasted image 20240110001704.png",
     "images/Pasted image 20240110001616.png",
     "images/Pasted image 20240110001526.png",
-    "images/pggan1.gif",
     "images",
     "Computer Vision/Object Detection",
     "Computer Vision/Image Generation",
