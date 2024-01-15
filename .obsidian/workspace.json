@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DDPM.md",
+                "file": "LDM.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DDPM.md",
+                "file": "LDM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DDPM.md",
+                "file": "LDM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DDPM.md"
+                "file": "LDM.md"
               }
             }
           },
@@ -177,6 +177,7 @@
   },
   "active": "f62f6c5510223ddc",
   "lastOpenFiles": [
+    "DDPM.md",
     "LDM.md",
     "images/Pasted image 20240115233815.png",
     "images/Pasted image 20240115233641.png",
@@ -185,7 +186,6 @@
     "images/Pasted image 20240115233121.png",
     "CFG.md",
     "images/Pasted image 20240115232501.png",
-    "DDPM.md",
     "images/Pasted image 20240115231301.png",
     "images/Pasted image 20240115231244.png",
     "images/Pasted image 20240115231214.png",
