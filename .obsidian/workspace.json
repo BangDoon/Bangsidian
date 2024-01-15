@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1277ce706492394b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DDPM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CFG.md",
+                "file": "DDPM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CFG.md",
+                "file": "DDPM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CFG.md"
+                "file": "DDPM.md"
               }
             }
           },
@@ -174,10 +186,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "0445bcf74679eabf",
+  "active": "1277ce706492394b",
   "lastOpenFiles": [
-    "DDPM.md",
+    "LDM.md",
     "CFG.md",
+    "DDPM.md",
     "Computer Vision/Image Generation/PG-GAN.md",
     "Computer Vision/Image Generation/GAN.md",
     "Computer Vision/Object Detection/R-CNN.md",
