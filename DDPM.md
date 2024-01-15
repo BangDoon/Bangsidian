@@ -41,6 +41,10 @@ Denoising Diffusion Probabilistic Models
 
 - T=0 의 이미지로부터 T=500 까지 가려면 Forward Process 를 500번 수행 -> 비효율적임
 - Noise Schedule 을 수식적으로 다시 정리하여 한번에 수행 가능하게 변환
+- Noise Schedul 의 의미는 Forward process를 진행할 수록
+	1. 이미지 분포의 평균은 0에 근접하도록
+	2. 이미지 분포의 분산은 1에 근접하도록
+		
 
 ![[Pasted image 20240115211558.png]]
 
