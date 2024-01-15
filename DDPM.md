@@ -48,4 +48,9 @@ Denoising Diffusion Probabilistic Models
 
 ![[Pasted image 20240115211558.png]]
 
-- 
+![[Pasted image 20240115211822.png]]
+
+
+### Reverse Process
+-  Gaussian Noise($X_{T}$ )에서 점진적으로 Gaussian Noise를 제거하여 이미지($X_{0}$ )를 복원하는 Markov Process
+- DD
