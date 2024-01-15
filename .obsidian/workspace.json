@@ -30,33 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c7ad1aec716ea1cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ELBO, VLB.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a0d5761b673522d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DDPM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DDPM.md",
+                "file": "KL Divergence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DDPM.md",
+                "file": "KL Divergence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DDPM.md"
+                "file": "KL Divergence.md"
               }
             }
           },
@@ -199,12 +175,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "1a0d5761b673522d",
+  "active": "f62f6c5510223ddc",
   "lastOpenFiles": [
-    "Proxy Loss.md",
-    "ELBO, VLB.md",
-    "KL Divergence.md",
     "DDPM.md",
+    "KL Divergence.md",
+    "ELBO, VLB.md",
+    "Proxy Loss.md",
     "images/Pasted image 20240115212108.png",
     "images/Pasted image 20240115211822.png",
     "images/Pasted image 20240115211558.png",
