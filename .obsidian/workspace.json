@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ELBO, VLB, Proxy Loss.md",
+                "file": "ELBO, VLB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a0d5761b673522d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proxy Loss.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ELBO, VLB, Proxy Loss.md",
+                "file": "Proxy Loss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ELBO, VLB, Proxy Loss.md",
+                "file": "Proxy Loss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ELBO, VLB, Proxy Loss.md"
+                "file": "Proxy Loss.md"
               }
             }
           },
@@ -187,10 +199,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "c7ad1aec716ea1cb",
+  "active": "1a0d5761b673522d",
   "lastOpenFiles": [
+    "ELBO, VLB.md",
+    "Proxy Loss.md",
     "KL Divergence.md",
-    "ELBO, VLB, Proxy Loss.md",
     "DDPM.md",
     "images/Pasted image 20240115212108.png",
     "images/Pasted image 20240115211822.png",
