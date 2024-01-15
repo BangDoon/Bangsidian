@@ -69,3 +69,8 @@ Denoising Diffusion Probabilistic Models
 ![[Pasted image 20240115223507.png]]
 
 
+- Denoising Term 간소화 과정
+
+![[Pasted image 20240115223940.png]]
+![[Pasted image 20240115223956.png]]
+![[Pasted image 20240115224004.png]]
