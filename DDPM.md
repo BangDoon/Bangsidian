@@ -16,4 +16,5 @@ Denoising Diffusion Probabilistic Models
 # Process
 ---
 **Foward Process** : 이미지($X_{0}$ )가 완전한 Gaussian Noise($X_{T}$ )가 될 때까지 Gaussian Noise를 점진적으로 추가하는 Markov Process
-***Reverse Process* :
+**Reverse Process** :  Gaussian Noise($X_{T}$ )에서 점진적으로 Gaussian Noise를 제거하여 이미지($X_{0}$ )를 복원하는 Markov Process
+
