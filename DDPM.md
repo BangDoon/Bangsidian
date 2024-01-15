@@ -11,7 +11,10 @@ Denoising Diffusion Probabilistic Models
 - 2015년 논문 "Deep unsupervised learning using nonequilibrium thermodynamics" 에서 Diffusion을 최초로 딥러닝으로 모델링 함
 
 - 2020년 논문 "Denoising Diffusion Probabilistic Models"에서 딥러닝으로 모델링 된 Diffusion을 이미지 도메인에 적용
-- 핵심 
+- 핵심 아이디어 : 점진적으로 물질이 퍼져 나가는 과정이 학습이 된다면, 반대과정도 가능하지 않을까?
+
+
+
 
 
 # Process
