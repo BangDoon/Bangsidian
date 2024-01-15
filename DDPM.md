@@ -34,5 +34,6 @@ Denoising Diffusion Probabilistic Models
 
 ![[Pasted image 20240115210910.png]]
 
-- Diffusion 에서 Foward Process를 정의할 때, 사전 정의된 Timestep 만큼, T 번 Forward Process 를 수행하면 이미지는 ㅇ
+- Diffusion 에서 Foward Process를 설명할 때, 사전 정의된 Timestep 만큼, T 번 Forward Process 를 수행하면 이미지는 Isotropic Gaussian(완전한 노이즈) 로 수렴해야 한다고 정의
+- 이를 만족하는 Noise Schedule 이라는 $\beta$ 값의 집합을 정의
 
