@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KL Divergence.md",
+                "file": "DDPM.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KL Divergence.md",
+                "file": "DDPM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KL Divergence.md",
+                "file": "DDPM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KL Divergence.md"
+                "file": "DDPM.md"
               }
             }
           },
@@ -177,8 +177,8 @@
   },
   "active": "f62f6c5510223ddc",
   "lastOpenFiles": [
-    "DDPM.md",
     "KL Divergence.md",
+    "DDPM.md",
     "ELBO, VLB.md",
     "Proxy Loss.md",
     "images/Pasted image 20240115212108.png",

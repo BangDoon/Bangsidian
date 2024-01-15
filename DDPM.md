@@ -59,3 +59,7 @@ Denoising Diffusion Probabilistic Models
 
 ![[Pasted image 20240115212108.png]]
 
+- 생성모델은 본질적으로 주어진 데이터의 분포를 학습하는 모델이기 떄문에 loss로 로그 가능도를 최대화 하는 것을 사용
+- 하지만 Diffusion은 실제 분포를 모르기 때문에 로그 가능도를 계산하기 힘듬
+- 그래서 Proxy Loss로 VLB(Variational Lower Bound)를 사용
+- [[KL Divergence]] 와 [[ELBO, VLB]]  참고
