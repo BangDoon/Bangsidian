@@ -29,3 +29,11 @@ Latent Diffusion Models
 - Latent representation을 이용하여 Diffusion Model을 학습
 
 ![[Pasted image 20240115233641.png]]
+
+
+# Sampling
+---
+- latent와 같은 사이즈의 가우시안 랜덤 노이즈를 획득, Text prompt 를 Text 인코더에 입력
+- 획득한 랜덤 노이즈로 sampling을 진행하고, sampling 결과에 대한 decoding을 진행하여 이미지 생성
+
+![[Pasted image 20240115233815.png]]
