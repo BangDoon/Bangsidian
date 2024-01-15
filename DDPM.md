@@ -15,3 +15,4 @@ Denoising Diffusion Probabilistic Models
 
 # Process
 ---
+**Foward Process** : 이미지(X_)
