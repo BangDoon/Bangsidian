@@ -1,1 +1,3 @@
 Latent Diffusion Models
+
+[[DDPM]]

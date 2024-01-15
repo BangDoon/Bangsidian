@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DDPM.md",
+                "file": "LDM.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DDPM.md",
+                "file": "LDM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DDPM.md",
+                "file": "LDM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DDPM.md"
+                "file": "LDM.md"
               }
             }
           },
@@ -164,10 +164,10 @@
   },
   "active": "1277ce706492394b",
   "lastOpenFiles": [
+    "DDPM.md",
     "images/Pasted image 20240115193432.png",
     "LDM.md",
     "CFG.md",
-    "DDPM.md",
     "Computer Vision/Image Generation/PG-GAN.md",
     "Computer Vision/Image Generation/GAN.md",
     "Computer Vision/Object Detection/R-CNN.md",
@@ -185,7 +185,6 @@
     "images/Pasted image 20240110001526.png",
     "images/pggan1.gif",
     "images/Pasted image 20240110000808.png",
-    "images/Pasted image 20240110000710.png",
     "images",
     "Computer Vision/Object Detection",
     "Computer Vision/Image Generation",
