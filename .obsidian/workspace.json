@@ -11,11 +11,28 @@
             "id": "6e5ec21f7cc1c837",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DDPM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0445bcf74679eabf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CFG.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CFG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CFG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CFG.md"
+              }
             }
           },
           {
@@ -153,8 +174,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6e5ec21f7cc1c837",
+  "active": "0445bcf74679eabf",
   "lastOpenFiles": [
+    "DDPM.md",
+    "CFG.md",
     "Computer Vision/Image Generation/PG-GAN.md",
     "Computer Vision/Image Generation/GAN.md",
     "Computer Vision/Object Detection/R-CNN.md",
