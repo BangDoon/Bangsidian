@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "32e6736667131ca1",
+        "id": "c10b29c7101349ac",
         "type": "tabs",
         "children": [
           {
-            "id": "e5449f7db91ad9b1",
+            "id": "6e5ec21f7cc1c837",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Vision/Image Generation/PG-GAN.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3192bbdcf974ef6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Vision/Object Detection/YOLO.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Vision/Object Detection/YOLO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Vision/Object Detection/YOLO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Computer Vision/Object Detection/YOLO.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,15 +153,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3192bbdcf974ef6c",
+  "active": "6e5ec21f7cc1c837",
   "lastOpenFiles": [
+    "Computer Vision/Image Generation/PG-GAN.md",
+    "Computer Vision/Image Generation/GAN.md",
     "Computer Vision/Object Detection/R-CNN.md",
+    "Computer Vision/Object Detection/YOLO.md",
     "Computer Vision/Image, Dimension, and Distribution.md",
     "Computer Vision/CNN.md",
-    "Computer Vision/Object Detection/YOLO.md",
-    "Computer Vision/Image Generation/GAN.md",
     "Computer Vision/Image Generation/CycleGAN.md",
-    "Computer Vision/Image Generation/PG-GAN.md",
     "README.md",
     "images/Pasted image 20240110164011.png",
     "images/Pasted image 20240110163440.png",
