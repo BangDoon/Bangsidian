@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proxy Loss.md",
+                "file": "DDPM.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proxy Loss.md",
+                "file": "DDPM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proxy Loss.md",
+                "file": "DDPM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proxy Loss.md"
+                "file": "DDPM.md"
               }
             }
           },
@@ -201,8 +201,8 @@
   },
   "active": "1a0d5761b673522d",
   "lastOpenFiles": [
-    "ELBO, VLB.md",
     "Proxy Loss.md",
+    "ELBO, VLB.md",
     "KL Divergence.md",
     "DDPM.md",
     "images/Pasted image 20240115212108.png",

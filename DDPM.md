@@ -1,5 +1,7 @@
 Denoising Diffusion Probabilistic Models
-
+[[Proxy Loss]]
+[[ELBO, VLB]]
+[[KL Divergence]]
 
 # Intro
 ---
