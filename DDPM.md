@@ -15,4 +15,4 @@ Denoising Diffusion Probabilistic Models
 
 # Process
 ---
-**Foward Process** : 이미지(X_)
+**Foward Process** : 이미지($X_{0}$ )가 완전한 Gaussian Noise()
