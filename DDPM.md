@@ -53,4 +53,4 @@ Denoising Diffusion Probabilistic Models
 
 ### Reverse Process
 -  Gaussian Noise($X_{T}$ )에서 점진적으로 Gaussian Noise를 제거하여 이미지($X_{0}$ )를 복원하는 Markov Process
-- DD
+- DDPM에서는 Reverse Process 의 분산을 고정, 평균을 학습
