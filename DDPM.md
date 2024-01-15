@@ -27,6 +27,6 @@ Denoising Diffusion Probabilistic Models
 
 ### Foward Process
 - 이미지($X_{0}$ )가 완전한 Gaussian Noise($X_{T}$ )가 될 때까지 Gaussian Noise를 점진적으로 추가하는 Markov Process
-- 현재 이미지가 주어졌을 때 1초 뒤 이미지는 평균이 $
+- 현재 이미지가 주어졌을 때 1초 뒤 이미지는 평균이 $\sqrt{1- \beta_{t}X_}
 
 
