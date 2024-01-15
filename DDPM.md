@@ -63,3 +63,9 @@ Denoising Diffusion Probabilistic Models
 - 하지만 Diffusion은 실제 분포를 모르기 때문에 로그 가능도를 계산하기 힘듬
 - 그래서 Proxy Loss로 VLB(Variational Lower Bound)를 사용
 - [[KL Divergence]] 와 [[ELBO, VLB]]  참고
+
+![[Pasted image 20240115223308.png]]
+
+![[Pasted image 20240115223507.png]]
+
+
